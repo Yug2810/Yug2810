@@ -25,8 +25,45 @@ Ceph is an open source storage platform that is designed to allow object, block,
 RAID (redundant array of independent disks) is a way of storing the same data in different places on multiple hard disks or solid-state drives (SSDs) to protect data in the case of a drive failure.
 # Networking   
 ![image](https://github.com/Yug2810/Yug2810/assets/148308778/87969d21-6885-4686-9491-7ae939540eee)
-+ **OSI:**
-The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.
-+ **Switch:**
-The Switch is a network device that is used to segment the networks into different subnetworks called subnets or LAN segments. It is responsible for filtering and forwarding the packets between LAN segments based on MAC address.
-+ **Router:**
+1. OSI Model/TCP-IP Model
+2. Network Topologies
+3. CIDR Notations
+4. Subnetting
+5. Public network
+6. Private network
+7. Static/Dynamic IPs
+8. Firewall
+9. Proxy
+10. NAT
+11. Public & Private DNS
+12. VPN
+13. IPv4 & IPv6 Protocols
+# High Availability
+1. Distributed Systems (Clusters)
+2. Fail-Over Mechanisms
+3. Disaster Recovery
+# Storage
+1. SAN
+2. Backups 3. NFS
+5. Object storage
+6. Disk IOPS/throughput/latency 7. Databases
+8. Key-Value Stores
+# Single Sign-On
+1. Active Directory/LDAP 2. Okta
+3. OpenID Connect
+4. Vertical scaling
+5. Horizontal scaling
+# Security
+1. SSL certificates (Single & Mutual)
+2. PKI Infrastructure
+# Load Balancers
+Zero touch provisioning
+1. L4 Load Balancers
+3. Zero trust security
+4. Password/secret rotation
+5. Security Compliance
+6. Site-to-site VPN
+7. Client-to-site VPN
+2. L7 Load Balancers
+3. Load balancing algorithms
+4. Reverse Proxy
